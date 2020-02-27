@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://kimuhjin.github.io/mern_corona_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
